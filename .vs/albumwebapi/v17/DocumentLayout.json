@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\albumwebapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\models\\deletemethodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\models\\deletemethodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\interfacers\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\interfacers\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|c:\\users\\hp\\documents\\albumwebapi\\albumwebapi\\migrations\\20241123224847_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFC739-4D6F-422A-A36A-B4781A696E34}|albumwebapi\\albumwebapi.csproj|solutionrelative:albumwebapi\\migrations\\20241123224847_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteMethodResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Models\\DeleteMethodResponse.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Models\\DeleteMethodResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Models\\DeleteMethodResponse.cs",
+              "RelativeToolTip": "albumwebapi\\Models\\DeleteMethodResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:22:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Interfacers\\IReviewService.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Interfacers\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Interfacers\\IReviewService.cs",
+              "RelativeToolTip": "albumwebapi\\Interfacers\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:03:18.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Services\\ReviewService.cs",
+              "RelativeToolTip": "albumwebapi\\Services\\ReviewService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:51:14.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Program.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Program.cs",
+              "RelativeToolTip": "albumwebapi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:13:51.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "albumwebapi\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:36:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\appsettings.json",
+              "RelativeDocumentMoniker": "albumwebapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\appsettings.json",
+              "RelativeToolTip": "albumwebapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T20:58:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Models\\Review.cs",
+              "RelativeToolTip": "albumwebapi\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:00:25.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "albumwebapi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:06:49.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241123224847_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Migrations\\20241123224847_InitialCreate.cs",
+              "RelativeDocumentMoniker": "albumwebapi\\Migrations\\20241123224847_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\albumwebapi\\albumwebapi\\Migrations\\20241123224847_InitialCreate.cs",
+              "RelativeToolTip": "albumwebapi\\Migrations\\20241123224847_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:48:47.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
