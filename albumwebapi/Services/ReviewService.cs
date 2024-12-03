@@ -2,15 +2,19 @@
 using albumwebapi.Interfacers;
 using albumwebapi.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace albumwebapi.Services
 {
     public class ReviewService : IReviewService
     {
         private readonly AppDbContext _context;
-        public ReviewService(AppDbContext context)
+        private readonly IMemoryCache _cache;
+
+        public ReviewService(AppDbContext context,IMemoryCache cache)
         {
             _context = context;
+            _cache = cache;
         }
 
       
@@ -39,7 +43,25 @@ namespace albumwebapi.Services
 
         public async Task<List<Review>> GetReviewsAsync()
         {
-          return await _context.Reviews.ToListAsync();
+            const string cacheKey = "reviews";
+
+            //if (!_cache.TryGetValue(cacheKey, out List<Review> reviews))
+            //{
+            //    reviews = await _context.Reviews.ToListAsync();
+
+            //    var cacheOptions = new MemoryCacheEntryOptions
+            //    {
+            //        AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(10),
+            //        SlidingExpiration = TimeSpan.FromMinutes(5)
+            //    };
+
+
+            //    _cache.Set(cacheKey, reviews, cacheOptions);
+
+            //}
+
+            //return reviews;
+            return await _context.Reviews.ToListAsync();
         }
     }
 }
