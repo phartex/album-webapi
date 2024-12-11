@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "review",
-        "Type": "albumwebapi.Models.Review",
+        "Name": "encryptedDto",
+        "Type": "albumwebapi.Models.CreateReviewDto",
         "IsRequired": true
       }
     ],
@@ -39,6 +39,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "albumwebapi.Controllers.ReviewsController",
+    "Method": "GetPublicKey",
+    "RelativePath": "api/Reviews/public-key",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

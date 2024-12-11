@@ -167,3 +167,4 @@ C:\Users\hp\Documents\albumwebapi\albumwebapi\obj\Debug\net8.0\refint\albumwebap
 C:\Users\hp\Documents\albumwebapi\albumwebapi\obj\Debug\net8.0\albumwebapi.pdb
 C:\Users\hp\Documents\albumwebapi\albumwebapi\obj\Debug\net8.0\albumwebapi.genruntimeconfig.cache
 C:\Users\hp\Documents\albumwebapi\albumwebapi\obj\Debug\net8.0\ref\albumwebapi.dll
+C:\Users\hp\Documents\albumwebapi\albumwebapi\bin\Debug\net8.0\Newtonsoft.Json.dll

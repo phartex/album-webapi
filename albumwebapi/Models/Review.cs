@@ -14,4 +14,10 @@
         public string Content { get; set; }
     }
 
+    public class EncryptedReview
+    {
+        public string Name { get; set; } // Encrypted 'Name' from frontend
+        public string Content { get; set; } // Encrypted 'Content' from frontend
+    }
+
 }
